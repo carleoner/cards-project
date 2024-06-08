@@ -1,0 +1,28 @@
+names:
+- 2D
+- 2H
+- 3H
+- 3S
+- 4C
+- 5D
+- 5S
+- 6D
+- 6H
+- 7C
+- 8D
+- 8H
+- 8S
+- 9D
+- AS
+- KD
+- QD
+nc: 17
+roboflow:
+  license: CC BY 4.0
+  project: cards-72bgk
+  url: https://universe.roboflow.com/karty/cards-72bgk/dataset/5
+  version: 5
+  workspace: karty
+test: ../test/images
+train: cards-5/train/images
+val: D:/cards-project/cards-5/valid/images
